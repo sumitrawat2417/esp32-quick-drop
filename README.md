@@ -10,6 +10,10 @@
 
 [Report a Bug](https://github.com/sumitrawat2417/esp32-quick-drop/issues) · [Request a Feature](https://github.com/sumitrawat2417/esp32-quick-drop/issues)
 
+<br/><br/>
+
+<img src="img/home.png" alt="ESP32 Quick Drop Web Interface" width="600" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+
 </div>
 
 ---
