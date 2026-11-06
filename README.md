@@ -279,12 +279,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-If this saved you time, a star on GitHub helps others find it.
+If this saved you time, a star helps others find it.
 
 **Designed and developed by [Forbit](https://github.com/sumitrawat2417) (Sumit Rawat)**
 
 [Report a Bug](https://github.com/sumitrawat2417/esp32-quick-drop/issues) · [Request a Feature](https://github.com/sumitrawat2417/esp32-quick-drop/issues)
 
-<sub>Not affiliated with, endorsed by, or connected to Espressif Systems.</sub>
+<sub>ESP32 is a trademark of Espressif Systems (Shanghai) Co., Ltd. This project is not affiliated with, endorsed by, or connected to Espressif.</sub>
 
 </div>
