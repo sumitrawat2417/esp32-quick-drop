@@ -268,7 +268,7 @@ Bug reports, ideas, and pull requests are welcome. Please open an [issue](https:
 
 ## License
 
-The repository contains a `LICENSE` file, but it is currently empty, so no license terms are specified. Until the maintainer adds license text, all rights are reserved by default and others have no explicit permission to use, modify, or redistribute the code.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
@@ -279,8 +279,12 @@ The repository contains a `LICENSE` file, but it is currently empty, so no licen
 
 <div align="center">
 
+If this saved you time, a star on GitHub helps others find it.
+
 **Designed and developed by [Forbit](https://github.com/sumitrawat2417) (Sumit Rawat)**
 
-[GitHub](https://github.com/sumitrawat2417)
+[Report a Bug](https://github.com/sumitrawat2417/esp32-quick-drop/issues) · [Request a Feature](https://github.com/sumitrawat2417/esp32-quick-drop/issues)
+
+<sub>Not affiliated with, endorsed by, or connected to Espressif Systems.</sub>
 
 </div>
