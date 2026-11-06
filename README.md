@@ -6,7 +6,7 @@
 
 [![MicroPython](https://img.shields.io/badge/Runtime-MicroPython-blue)](https://micropython.org/)
 [![Hardware](https://img.shields.io/badge/Hardware-ESP32-green)](https://www.espressif.com/en/products/socs/esp32)
-[![License](https://img.shields.io/github/license/sumitrawat2417/esp32-quick-drop)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
 [Report a Bug](https://github.com/sumitrawat2417/esp32-quick-drop/issues) · [Request a Feature](https://github.com/sumitrawat2417/esp32-quick-drop/issues)
 
